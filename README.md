@@ -1,1 +1,9 @@
-Device Tree for the Galaxy F42 
+# Android device tree for samsung SM-E426B (f42x)
+
+```
+#
+# Copyright (C) 2024 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
